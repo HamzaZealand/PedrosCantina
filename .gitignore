@@ -1,0 +1,40 @@
+## Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.rsuser
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+## NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+## Test / coverage
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.coverage
+*.coveragexml
+
+## Publish
+publish/
+*.publishproj
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
